@@ -1,0 +1,15 @@
+
+1.npx create-react-app 
+
+2.install tailwind css
+
+3.npm start 
+
+4.Xóa các thứ trong fille App.css
+Test các thứ trong file App.js // com cha
+
+5.Muốn gắn link thư viện vào thì vào file index.html trong public 
+
+6.confix tailwind thì vào filw tailwind.config.css gõ vào trong extend 
+
+7.Cách truyền data vào phạm vi toàn cầu để lấy danh sách bài hát
